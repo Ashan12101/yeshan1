@@ -13,6 +13,6 @@ form.addEventListener('submit', (e) => {
 		resultDiv.innerHTML = 'Baby';
 		window.location.href = nextPageUrl; // Redirect to new page
 	} else {
-		resultDiv.innerHTML = 'tmi Nubsa hai khai ka xa Nubsa?';
+		resultDiv.innerHTML = 'tmi Nubsa haina khai ka xa Nubsa?';
 	}
 });
